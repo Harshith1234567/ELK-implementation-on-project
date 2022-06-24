@@ -2,7 +2,7 @@ spring:
   couchbase:
     connection-string: "127.0.0.1"
     user-name: "mdep"
-    password: "Create123@"
+    password: "password"
     bucket-name: "product"
 
   zipkin:
